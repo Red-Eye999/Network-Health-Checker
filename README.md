@@ -1,4 +1,3 @@
-# Network-Health-Checker
 # 🌐 Python Network Health Checker
 
 A simple, fast, and automated Python script to check the connectivity and health of network devices by performing Ping tests and scanning essential TCP ports.
